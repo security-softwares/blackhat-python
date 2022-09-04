@@ -9,7 +9,7 @@
 ---
 
 <meta name="black-hat-python" content="black hat python for hackers ,python tools,black hat tools">
-![](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
+
 Here -:
 ## Command to install tool
 
@@ -22,7 +22,7 @@ Here -:
 
 
 ```
-git clone https://github.com/security-essentials/blackhat-python
+git clone https://github.com/security-softwares/blackhat-python
 
 cd blackhat-python
 python3 script.py
